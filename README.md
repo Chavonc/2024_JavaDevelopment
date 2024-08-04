@@ -2,6 +2,7 @@
 <p>使用Andriod Studio、Java語言開發Android APP</p>
 <p>把各資料夾放在Android Studio的資料夾中便能成功運行(不能修改檔名)</p>
 <p>DEMO~Lab06是Training用</p>
+<p>File Path: app/src/main/java/com/example/*</p>
 
 ## 個人記帳、備忘錄(含定時鬧鐘功能)APP 
 <p>Test是其Code</p>
