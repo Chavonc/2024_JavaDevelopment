@@ -1,0 +1,581 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [androidx.databinding:databinding-adapters:7.1.3] C:\Users\Chavon\.gradle\caches\transforms-3\8b39fba5b0f71f18bd8866375ad31073\transformed\databinding-adapters-7.1.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:7.1.3] C:\Users\Chavon\.gradle\caches\transforms-3\24d86367d6d131aafb91c9d62a44e681\transformed\databinding-runtime-7.1.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:7.1.3] C:\Users\Chavon\.gradle\caches\transforms-3\79bbba38c0333ceac137369ab8f72784\transformed\viewbinding-7.1.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\548b8ffdd074cfd7b2e7e7cdb67a8bd9\transformed\navigation-ui-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Chavon\.gradle\caches\transforms-3\f4644d49845b47ba06b9572c54ce16a0\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Chavon\.gradle\caches\transforms-3\f06aebf0b0c854b48adfbf120800f602\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Chavon\.gradle\caches\transforms-3\b6c08236f995403d8965347cfb7adb7f\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Chavon\.gradle\caches\transforms-3\8348cf7d0b54a89b70636965c05f54b7\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\3e9113b33a1a23b6279844271a877596\transformed\navigation-fragment-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\fbd8dda460e62af0bcea3ac84c47eb75\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\8e8004f658ac2a7f8f9d847c6ccbed3f\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Chavon\.gradle\caches\transforms-3\f3644ad778acb0eb375e8afe4ed552de\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\d08365dc57d52059e861bc28840912b5\transformed\navigation-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Chavon\.gradle\caches\transforms-3\581a75f6e8bc1568f625e4f8419e5e3b\transformed\activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\2732231502652d49f6471d738fea92f2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\010e175a01a56214c9e0513773f6cc6d\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\ea99aa67336d4d62f7f663b262956f65\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\e68bd84e89a1199c0e0bb7915ca54e8d\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Chavon\.gradle\caches\transforms-3\42ea6a78f734369dd1417ebffc7c4d0e\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Chavon\.gradle\caches\transforms-3\7f65766bdb25f343e54de3a40538d605\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\c10f764d6a61050f136ced5215a5ccee\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\245b1df8dd46d7fc29d171755fd4ae72\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Chavon\.gradle\caches\transforms-3\f9f13cb9407dc9161caf4cf532aae1a0\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\c2365997c5712c09b8e040cdba48ec6f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\32add01af76f4ee9df0399e84476a2a6\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\d7bfb4d57ba25c58c1ed4e8afb52dc48\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\131fc640a9fa001c570148d810d62306\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\e815605bb395830277d015e0e19ca4b8\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\e89eeb6a385e78fa9b9d10212fcb10ac\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\4dc2d7de2e36c1331823605ddccab851\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\b799179d0f364501512efedbe756bc89\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\f474efe882155c7880e3c4cdb9a252a3\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\05004be9d5f40db3a3f43ef3ca30f636\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\8372d28f0904eb4f1e43c4bd3bcdae52\transformed\navigation-common-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\451d5deef0055514db33ca16d3954957\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\dddae96cfa5564f52996739cb78817ca\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\ccb8551df66d1448e3a94b903acd2d3b\transformed\lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Chavon\.gradle\caches\transforms-3\623870990e9db1b13aa0ffc2f4f271a0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Chavon\.gradle\caches\transforms-3\612dbc1d425b932fa0349fdaf4983fde\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\ba5c646dbbc9b110b0bbc2352c403cb8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\997d179a83a6352b6cb47b2430fe0c10\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\5c5564f3c21f160b8593b6357f42704c\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Chavon\.gradle\caches\transforms-3\f997d50b6ab710f7154e8610b4204452\transformed\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\4cbb7c4b7da3bae5bed6899cb3cdcfd5\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\04c8e09a7a7898a2feeae7fb915c6644\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\147b41b975963e9c6e964e8b1dcb1e8a\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Chavon\.gradle\caches\transforms-3\b361938a522bfac376ce4322c6ba4e71\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\aa032f33b1d34c08ed370a72f750a373\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Chavon\.gradle\caches\transforms-3\4b972d5438fc40c7b09ab80506ac601b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\7c990f06e754cf1c9aad4fc86073f105\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Chavon\.gradle\caches\transforms-3\36325408cec9ed0dd0d5d908fc64e1b9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\ee01feab513af078bd998cbe0bb6086b\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\23bc2eaa3d335b525ba2ecfef837b657\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\58d3fb1b78397bc15eea1568e0b97297\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\9e495b0e9f7cb70c1ccd9a8c2fa3dac5\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Chavon\.gradle\caches\transforms-3\f2d9f0fe85b1c9922cc02a35c95b6a6b\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:7:22-74
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:9:22-75
+application
+ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:11:5-40:19
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Chavon\.gradle\caches\transforms-3\f4644d49845b47ba06b9572c54ce16a0\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Chavon\.gradle\caches\transforms-3\f4644d49845b47ba06b9572c54ce16a0\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Chavon\.gradle\caches\transforms-3\f06aebf0b0c854b48adfbf120800f602\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Chavon\.gradle\caches\transforms-3\f06aebf0b0c854b48adfbf120800f602\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\245b1df8dd46d7fc29d171755fd4ae72\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\245b1df8dd46d7fc29d171755fd4ae72\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Chavon\.gradle\caches\transforms-3\623870990e9db1b13aa0ffc2f4f271a0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Chavon\.gradle\caches\transforms-3\623870990e9db1b13aa0ffc2f4f271a0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Chavon\.gradle\caches\transforms-3\f997d50b6ab710f7154e8610b4204452\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Chavon\.gradle\caches\transforms-3\f997d50b6ab710f7154e8610b4204452\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Chavon\.gradle\caches\transforms-3\4b972d5438fc40c7b09ab80506ac601b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Chavon\.gradle\caches\transforms-3\4b972d5438fc40c7b09ab80506ac601b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Chavon\.gradle\caches\transforms-3\36325408cec9ed0dd0d5d908fc64e1b9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Chavon\.gradle\caches\transforms-3\36325408cec9ed0dd0d5d908fc64e1b9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:17:9-42
+activity#com.example.test.ForgotPassword
+ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:19:13-43
+activity#com.example.test.FunctionActivity
+ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:21:9-23:40
+	android:exported
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:22:13-45
+activity#com.example.test.SignUpActivity
+ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:24:9-26:40
+	android:exported
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:25:13-43
+activity#com.example.test.MainActivity
+ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:27:9-35:20
+	android:exported
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:28:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:33:27-74
+receiver#com.example.test.AlarmReceiver
+ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:37:9-39:48
+	android:exported
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:38:13-42
+uses-sdk
+INJECTED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.1.3] C:\Users\Chavon\.gradle\caches\transforms-3\8b39fba5b0f71f18bd8866375ad31073\transformed\databinding-adapters-7.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:7.1.3] C:\Users\Chavon\.gradle\caches\transforms-3\8b39fba5b0f71f18bd8866375ad31073\transformed\databinding-adapters-7.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.3] C:\Users\Chavon\.gradle\caches\transforms-3\24d86367d6d131aafb91c9d62a44e681\transformed\databinding-runtime-7.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.3] C:\Users\Chavon\.gradle\caches\transforms-3\24d86367d6d131aafb91c9d62a44e681\transformed\databinding-runtime-7.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.3] C:\Users\Chavon\.gradle\caches\transforms-3\79bbba38c0333ceac137369ab8f72784\transformed\viewbinding-7.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.3] C:\Users\Chavon\.gradle\caches\transforms-3\79bbba38c0333ceac137369ab8f72784\transformed\viewbinding-7.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\548b8ffdd074cfd7b2e7e7cdb67a8bd9\transformed\navigation-ui-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\548b8ffdd074cfd7b2e7e7cdb67a8bd9\transformed\navigation-ui-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Chavon\.gradle\caches\transforms-3\f4644d49845b47ba06b9572c54ce16a0\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Chavon\.gradle\caches\transforms-3\f4644d49845b47ba06b9572c54ce16a0\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Chavon\.gradle\caches\transforms-3\f06aebf0b0c854b48adfbf120800f602\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Chavon\.gradle\caches\transforms-3\f06aebf0b0c854b48adfbf120800f602\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Chavon\.gradle\caches\transforms-3\b6c08236f995403d8965347cfb7adb7f\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Chavon\.gradle\caches\transforms-3\b6c08236f995403d8965347cfb7adb7f\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Chavon\.gradle\caches\transforms-3\8348cf7d0b54a89b70636965c05f54b7\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Chavon\.gradle\caches\transforms-3\8348cf7d0b54a89b70636965c05f54b7\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\3e9113b33a1a23b6279844271a877596\transformed\navigation-fragment-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\3e9113b33a1a23b6279844271a877596\transformed\navigation-fragment-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\fbd8dda460e62af0bcea3ac84c47eb75\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\fbd8dda460e62af0bcea3ac84c47eb75\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\8e8004f658ac2a7f8f9d847c6ccbed3f\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\8e8004f658ac2a7f8f9d847c6ccbed3f\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Chavon\.gradle\caches\transforms-3\f3644ad778acb0eb375e8afe4ed552de\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Chavon\.gradle\caches\transforms-3\f3644ad778acb0eb375e8afe4ed552de\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\d08365dc57d52059e861bc28840912b5\transformed\navigation-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\d08365dc57d52059e861bc28840912b5\transformed\navigation-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Chavon\.gradle\caches\transforms-3\581a75f6e8bc1568f625e4f8419e5e3b\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Chavon\.gradle\caches\transforms-3\581a75f6e8bc1568f625e4f8419e5e3b\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\2732231502652d49f6471d738fea92f2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\2732231502652d49f6471d738fea92f2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\010e175a01a56214c9e0513773f6cc6d\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\010e175a01a56214c9e0513773f6cc6d\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\ea99aa67336d4d62f7f663b262956f65\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\ea99aa67336d4d62f7f663b262956f65\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\e68bd84e89a1199c0e0bb7915ca54e8d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\e68bd84e89a1199c0e0bb7915ca54e8d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Chavon\.gradle\caches\transforms-3\42ea6a78f734369dd1417ebffc7c4d0e\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Chavon\.gradle\caches\transforms-3\42ea6a78f734369dd1417ebffc7c4d0e\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Chavon\.gradle\caches\transforms-3\7f65766bdb25f343e54de3a40538d605\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Chavon\.gradle\caches\transforms-3\7f65766bdb25f343e54de3a40538d605\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\c10f764d6a61050f136ced5215a5ccee\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\c10f764d6a61050f136ced5215a5ccee\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\245b1df8dd46d7fc29d171755fd4ae72\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\245b1df8dd46d7fc29d171755fd4ae72\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Chavon\.gradle\caches\transforms-3\f9f13cb9407dc9161caf4cf532aae1a0\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Chavon\.gradle\caches\transforms-3\f9f13cb9407dc9161caf4cf532aae1a0\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\c2365997c5712c09b8e040cdba48ec6f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\c2365997c5712c09b8e040cdba48ec6f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\32add01af76f4ee9df0399e84476a2a6\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\32add01af76f4ee9df0399e84476a2a6\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\d7bfb4d57ba25c58c1ed4e8afb52dc48\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\d7bfb4d57ba25c58c1ed4e8afb52dc48\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\131fc640a9fa001c570148d810d62306\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\131fc640a9fa001c570148d810d62306\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\e815605bb395830277d015e0e19ca4b8\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\e815605bb395830277d015e0e19ca4b8\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\e89eeb6a385e78fa9b9d10212fcb10ac\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\e89eeb6a385e78fa9b9d10212fcb10ac\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\4dc2d7de2e36c1331823605ddccab851\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\4dc2d7de2e36c1331823605ddccab851\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\b799179d0f364501512efedbe756bc89\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\b799179d0f364501512efedbe756bc89\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\f474efe882155c7880e3c4cdb9a252a3\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\f474efe882155c7880e3c4cdb9a252a3\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\05004be9d5f40db3a3f43ef3ca30f636\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\05004be9d5f40db3a3f43ef3ca30f636\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\8372d28f0904eb4f1e43c4bd3bcdae52\transformed\navigation-common-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\8372d28f0904eb4f1e43c4bd3bcdae52\transformed\navigation-common-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\451d5deef0055514db33ca16d3954957\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\451d5deef0055514db33ca16d3954957\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\dddae96cfa5564f52996739cb78817ca\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\dddae96cfa5564f52996739cb78817ca\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\ccb8551df66d1448e3a94b903acd2d3b\transformed\lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\ccb8551df66d1448e3a94b903acd2d3b\transformed\lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Chavon\.gradle\caches\transforms-3\623870990e9db1b13aa0ffc2f4f271a0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Chavon\.gradle\caches\transforms-3\623870990e9db1b13aa0ffc2f4f271a0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Chavon\.gradle\caches\transforms-3\612dbc1d425b932fa0349fdaf4983fde\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Chavon\.gradle\caches\transforms-3\612dbc1d425b932fa0349fdaf4983fde\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\ba5c646dbbc9b110b0bbc2352c403cb8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\ba5c646dbbc9b110b0bbc2352c403cb8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\997d179a83a6352b6cb47b2430fe0c10\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\997d179a83a6352b6cb47b2430fe0c10\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\5c5564f3c21f160b8593b6357f42704c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\5c5564f3c21f160b8593b6357f42704c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Chavon\.gradle\caches\transforms-3\f997d50b6ab710f7154e8610b4204452\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Chavon\.gradle\caches\transforms-3\f997d50b6ab710f7154e8610b4204452\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\4cbb7c4b7da3bae5bed6899cb3cdcfd5\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\4cbb7c4b7da3bae5bed6899cb3cdcfd5\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\04c8e09a7a7898a2feeae7fb915c6644\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\04c8e09a7a7898a2feeae7fb915c6644\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\147b41b975963e9c6e964e8b1dcb1e8a\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\147b41b975963e9c6e964e8b1dcb1e8a\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Chavon\.gradle\caches\transforms-3\b361938a522bfac376ce4322c6ba4e71\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Chavon\.gradle\caches\transforms-3\b361938a522bfac376ce4322c6ba4e71\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\aa032f33b1d34c08ed370a72f750a373\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Chavon\.gradle\caches\transforms-3\aa032f33b1d34c08ed370a72f750a373\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Chavon\.gradle\caches\transforms-3\4b972d5438fc40c7b09ab80506ac601b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Chavon\.gradle\caches\transforms-3\4b972d5438fc40c7b09ab80506ac601b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\7c990f06e754cf1c9aad4fc86073f105\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\7c990f06e754cf1c9aad4fc86073f105\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Chavon\.gradle\caches\transforms-3\36325408cec9ed0dd0d5d908fc64e1b9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Chavon\.gradle\caches\transforms-3\36325408cec9ed0dd0d5d908fc64e1b9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\ee01feab513af078bd998cbe0bb6086b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\ee01feab513af078bd998cbe0bb6086b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\23bc2eaa3d335b525ba2ecfef837b657\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\23bc2eaa3d335b525ba2ecfef837b657\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\58d3fb1b78397bc15eea1568e0b97297\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\58d3fb1b78397bc15eea1568e0b97297\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\9e495b0e9f7cb70c1ccd9a8c2fa3dac5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Chavon\.gradle\caches\transforms-3\9e495b0e9f7cb70c1ccd9a8c2fa3dac5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Chavon\.gradle\caches\transforms-3\f2d9f0fe85b1c9922cc02a35c95b6a6b\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Chavon\.gradle\caches\transforms-3\f2d9f0fe85b1c9922cc02a35c95b6a6b\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chavon\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:28:22-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\245b1df8dd46d7fc29d171755fd4ae72\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\245b1df8dd46d7fc29d171755fd4ae72\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Chavon\.gradle\caches\transforms-3\623870990e9db1b13aa0ffc2f4f271a0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Chavon\.gradle\caches\transforms-3\623870990e9db1b13aa0ffc2f4f271a0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Chavon\.gradle\caches\transforms-3\4b972d5438fc40c7b09ab80506ac601b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Chavon\.gradle\caches\transforms-3\4b972d5438fc40c7b09ab80506ac601b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:35:13-31
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:33:13-68
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:32:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Chavon\.gradle\caches\transforms-3\0d349f1e196901677316dd769cefb416\transformed\work-runtime-2.7.1\AndroidManifest.xml:140:25-85
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\245b1df8dd46d7fc29d171755fd4ae72\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\245b1df8dd46d7fc29d171755fd4ae72\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\245b1df8dd46d7fc29d171755fd4ae72\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.test.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.test.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Chavon\.gradle\caches\transforms-3\623870990e9db1b13aa0ffc2f4f271a0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Chavon\.gradle\caches\transforms-3\623870990e9db1b13aa0ffc2f4f271a0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Chavon\.gradle\caches\transforms-3\623870990e9db1b13aa0ffc2f4f271a0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Chavon\.gradle\caches\transforms-3\f997d50b6ab710f7154e8610b4204452\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Chavon\.gradle\caches\transforms-3\f997d50b6ab710f7154e8610b4204452\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Chavon\.gradle\caches\transforms-3\f997d50b6ab710f7154e8610b4204452\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Chavon\.gradle\caches\transforms-3\f997d50b6ab710f7154e8610b4204452\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74

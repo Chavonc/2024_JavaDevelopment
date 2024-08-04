@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2">
+
+    <TextView
+        android:id="@+id/showText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="錄影部分DEMO"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/video_button1"
+        android:layout_width="98dp"
+        android:layout_height="47dp"
+        android:layout_marginTop="16dp"
+        android:onClick="button_Click"
+        android:text="開始錄影"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/showText2"
+        tools:ignore="ButtonStyle,HardcodedText,MissingConstraints,UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/video_button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:onClick="button2_Click"
+        android:text="內建錄影"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/video_button1"
+        tools:ignore="ButtonStyle,HardcodedText,MissingConstraints,UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/video_button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="button3_Click"
+        android:text="播放錄影"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/video_button2"
+        tools:ignore="ButtonStyle,HardcodedText,MissingConstraints,UsingOnClickInXml" />
+
+    <VideoView
+        android:id="@+id/videoView"
+        android:layout_width="273dp"
+        android:layout_height="227dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/video_button3"
+        tools:ignore="MissingConstraints" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/theme_setting"
+        android:title="關於本課堂簡介"
+        tools:ignore="HardcodedText">
+    </item>
+    <item
+        android:id="@+id/jot_notes"
+        android:title="關於我的記事本"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/todoList"
+        android:title="關於我的待辦事項"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/schedule"
+        android:title="關於我的課表"
+        tools:ignore="HardcodedText" />
+</menu>

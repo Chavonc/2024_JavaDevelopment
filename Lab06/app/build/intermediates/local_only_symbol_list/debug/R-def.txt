@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id action_delete
+id action_insert
+id action_queryAll
+id action_update
+id lblOutput2
+id textView
+id textView2
+id textView3
+id txtNewPrice
+id txtPrice
+id txtTitle
+layout activity_main
+menu menu_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Lab06

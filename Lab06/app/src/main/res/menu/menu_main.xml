@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_insert"
+        android:title="新增"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_update"
+        android:title="更新"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_delete"
+        android:title="刪除"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_queryAll"
+        android:title="顯示全部記錄"
+        app:showAsAction="never" />
+</menu>

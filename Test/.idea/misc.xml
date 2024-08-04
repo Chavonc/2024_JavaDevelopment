@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/drawable-v24/appicon.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/drawable-v24/circle_design.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/drawable-v24/ic_baseline_shopping_cart_24.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/drawable-v24/shape_bar.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/drawable-v24/shape_circle.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/drawable-v24/shape_rectangle.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/drawable-v24/top_circle.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/drawable/checkbox_checked.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/drawable/checkbox_unchecked.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/drawable/custom_checkbox.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/drawable/dialog_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/drawable/ic_baseline_add.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/drawable/ic_baseline_bell.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/drawable/ic_baseline_bookmark.xml" value="0.1275" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/drawable/ic_baseline_calendar.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/drawable/ic_baseline_money.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/drawable/ic_baseline_shopping_add.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/drawable/roundcorner_add.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/activity_ask_question.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/activity_forgot_password.xml" value="0.22" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/activity_function.xml" value="0.14266304347826086" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/activity_sign_in.xml" value="0.14266304347826086" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/activity_wallet_expense.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/activity_wallet_in_come.xml" value="0.14266304347826086" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/alertdialog_changepassword.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/alertdialog_modifyinfo.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/alertdialog_sign_up.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/dialog_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/expense_text.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/fragment_account.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/fragment_date_picker.xml" value="0.5" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/fragment_forget_password.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/fragment_memo.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/fragment_note.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/fragment_shopping.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/fragment_wallet.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/income_text.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/note_edit_data.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/note_list_item.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/note_text.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/question.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/question_dialog.xml" value="0.11865942028985507" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/shopping_child_item.xml" value="0.129981884057971" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/shopping_edit_data.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/shopping_parent_item.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/shopping_text.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/wallet_edit_data.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/layout/wallet_list.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/menu/menu_bottomnav.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/menu/note_menu_done.xml" value="0.1" />
+        <entry key="..\:/Users/Chavon/AndroidStudioProjects/Test/app/src/main/res/menu/shopping_menu_done.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

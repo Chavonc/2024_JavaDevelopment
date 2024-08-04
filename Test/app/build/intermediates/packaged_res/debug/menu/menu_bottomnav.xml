@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/walletFragment"
+        android:title="錢包"
+        android:icon="@drawable/wallet" />
+    <item
+        android:id="@+id/memoFragment"
+        android:title="備忘錄"
+        android:icon="@drawable/img_1" />
+    <item
+        android:id="@+id/accountFragment"
+        android:title="帳戶"
+        android:icon="@drawable/ic_baseline_account" />
+</menu>

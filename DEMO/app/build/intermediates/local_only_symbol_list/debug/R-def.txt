@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id blueRadioButton
+id blue_pop
+id btn1
+id btn2
+id btn3
+id colorGroup
+id context_green
+id context_orange
+id context_red
+id greenRadioButton
+id green_pop
+id jot_notes
+id purpleRadioButton
+id purple_pop
+id schedule
+id textView
+id theme_setting
+id todoList
+layout activity_main
+menu context_menu
+menu popup_menu
+menu top_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.DEMO

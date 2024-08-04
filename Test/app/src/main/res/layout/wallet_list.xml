@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp">
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="100">
+    <TextView
+        android:id="@+id/wallet_itemDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DATE"
+        android:layout_weight="33.3"
+        android:textSize="20dp"
+        android:layout_gravity="start" />
+    <TextView
+        android:id="@+id/wallet_itemName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Content"
+        android:layout_weight="33.3"
+        android:textSize="20dp"
+        android:layout_gravity="center" />
+    <TextView
+        android:id="@+id/wallet_itemCost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Amount"
+        android:layout_weight="33.3"
+        android:textSize="20dp"
+        android:layout_gravity="end" />
+</LinearLayout>
+</androidx.cardview.widget.CardView>

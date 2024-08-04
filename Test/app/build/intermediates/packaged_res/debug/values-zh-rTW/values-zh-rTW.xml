@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test</string>
+    <string name="str_account">帳戶</string>
+    <string name="str_note">備忘錄</string>
+    <string name="str_wallet">錢包</string>
+</resources>

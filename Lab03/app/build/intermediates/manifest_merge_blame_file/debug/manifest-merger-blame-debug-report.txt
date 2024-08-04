@@ -1,0 +1,87 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.lab03"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Chavon\AndroidStudioProjects\Lab03\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\Chavon\AndroidStudioProjects\Lab03\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Users\Chavon\AndroidStudioProjects\Lab03\app\src\main\AndroidManifest.xml:4:5-81
+11-->C:\Users\Chavon\AndroidStudioProjects\Lab03\app\src\main\AndroidManifest.xml:4:22-78
+12
+13    <permission
+13-->[androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+14        android:name="com.example.lab03.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.example.lab03.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->C:\Users\Chavon\AndroidStudioProjects\Lab03\app\src\main\AndroidManifest.xml:5:5-21:19
+20        android:allowBackup="true"
+20-->C:\Users\Chavon\AndroidStudioProjects\Lab03\app\src\main\AndroidManifest.xml:6:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.9.0] C:\Users\Chavon\.gradle\caches\transforms-3\874ebc311f4d8a657358d3bdcffa5be4\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\Chavon\AndroidStudioProjects\Lab03\app\src\main\AndroidManifest.xml:7:9-43
+24        android:label="@string/app_name"
+24-->C:\Users\Chavon\AndroidStudioProjects\Lab03\app\src\main\AndroidManifest.xml:8:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->C:\Users\Chavon\AndroidStudioProjects\Lab03\app\src\main\AndroidManifest.xml:9:9-54
+26        android:supportsRtl="true"
+26-->C:\Users\Chavon\AndroidStudioProjects\Lab03\app\src\main\AndroidManifest.xml:10:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.Lab03" >
+28-->C:\Users\Chavon\AndroidStudioProjects\Lab03\app\src\main\AndroidManifest.xml:11:9-43
+29        <activity
+29-->C:\Users\Chavon\AndroidStudioProjects\Lab03\app\src\main\AndroidManifest.xml:12:9-20:20
+30            android:name="com.example.lab03.MainActivity"
+30-->C:\Users\Chavon\AndroidStudioProjects\Lab03\app\src\main\AndroidManifest.xml:13:13-41
+31            android:exported="true" >
+31-->C:\Users\Chavon\AndroidStudioProjects\Lab03\app\src\main\AndroidManifest.xml:14:13-36
+32            <intent-filter>
+32-->C:\Users\Chavon\AndroidStudioProjects\Lab03\app\src\main\AndroidManifest.xml:15:13-19:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->C:\Users\Chavon\AndroidStudioProjects\Lab03\app\src\main\AndroidManifest.xml:16:17-69
+33-->C:\Users\Chavon\AndroidStudioProjects\Lab03\app\src\main\AndroidManifest.xml:16:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->C:\Users\Chavon\AndroidStudioProjects\Lab03\app\src\main\AndroidManifest.xml:18:17-77
+35-->C:\Users\Chavon\AndroidStudioProjects\Lab03\app\src\main\AndroidManifest.xml:18:27-74
+36            </intent-filter>
+37        </activity>
+38
+39        <provider
+39-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\245b1df8dd46d7fc29d171755fd4ae72\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+40            android:name="androidx.startup.InitializationProvider"
+40-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\245b1df8dd46d7fc29d171755fd4ae72\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+41            android:authorities="com.example.lab03.androidx-startup"
+41-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\245b1df8dd46d7fc29d171755fd4ae72\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+42            android:exported="false" >
+42-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\245b1df8dd46d7fc29d171755fd4ae72\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+43            <meta-data
+43-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\245b1df8dd46d7fc29d171755fd4ae72\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+44                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+44-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\245b1df8dd46d7fc29d171755fd4ae72\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+45                android:value="androidx.startup" />
+45-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Chavon\.gradle\caches\transforms-3\245b1df8dd46d7fc29d171755fd4ae72\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+46            <meta-data
+46-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Chavon\.gradle\caches\transforms-3\623870990e9db1b13aa0ffc2f4f271a0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+47                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+47-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Chavon\.gradle\caches\transforms-3\623870990e9db1b13aa0ffc2f4f271a0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+48                android:value="androidx.startup" />
+48-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Chavon\.gradle\caches\transforms-3\623870990e9db1b13aa0ffc2f4f271a0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+49        </provider>
+50    </application>
+51
+52</manifest>

@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\note_edit_data.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\note_edit_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\alertdialog_changepassword.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\alertdialog_changepassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_account.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\note_list_item.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\note_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_forgot_password.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\question_dialog.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\question_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_ask_question.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\activity_ask_question.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_note.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\fragment_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\shopping_text.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\shopping_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_time_picker.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\fragment_time_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\alertdialog_sign_up.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\alertdialog_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\income_text.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\income_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_date_picker.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\fragment_date_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\wallet_edit_data.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\wallet_edit_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_wallet.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\fragment_wallet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\alertdialog_modifyinfo.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\alertdialog_modifyinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\note_text.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\note_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\expense_text.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\expense_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\shopping_parent_item.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\shopping_parent_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_shopping.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\fragment_shopping.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\wallet_list.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\wallet_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_memo.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\fragment_memo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_function.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\activity_function.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\shopping_child_item.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\shopping_child_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\shopping_edit_data.xml",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\shopping_edit_data.xml"
+    }
+]

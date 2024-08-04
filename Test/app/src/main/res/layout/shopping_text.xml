@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/editTextGroupLayout"
+    android:background="@drawable/dialog_bg"
+    android:layout_width="250dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:minWidth="200dp"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:paddingBottom="10dp"
+    android:paddingTop="10dp">
+    <EditText
+        android:id="@+id/inputName"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:drawableLeft="@drawable/ic_baseline_bookmark"
+        android:hint="在此輸入備註類別"
+        android:minHeight="45dp"
+        android:textSize="18sp" />
+    <EditText
+        android:id="@+id/inputItems"
+        android:layout_width="200dp"
+        android:layout_centerInParent="true"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:drawableLeft="@drawable/ic_baseline_notes_24"
+        android:hint="在此輸入物品名稱"
+        android:minHeight="45dp"
+        android:textSize="18sp" />
+    <LinearLayout
+        android:id="@+id/addedEditTextLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_gravity="start">
+    </LinearLayout>
+    <ImageButton
+        android:id="@+id/imageButton_add"
+        android:layout_width="36dp"
+        android:layout_height="34dp"
+        android:background="@drawable/roundcorner_add"
+        app:srcCompat="@drawable/ic_baseline_add"
+        android:layout_gravity="end"/>
+</LinearLayout>

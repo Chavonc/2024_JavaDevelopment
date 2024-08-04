@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/blue_pop"
+        android:title="藍色"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/purple_pop"
+        android:title="紫色"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/green_pop"
+        android:title="綠色"
+        tools:ignore="HardcodedText" />
+</menu>

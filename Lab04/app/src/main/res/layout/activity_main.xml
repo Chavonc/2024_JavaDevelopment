@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <TextView
+        android:id="@+id/showText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lab 04 Demo"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toTopOf="@+id/linear1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="HardcodedText" />
+
+    <LinearLayout
+        android:id="@+id/linear1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="560dp"
+        android:orientation="horizontal"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent">
+        <Button
+            android:id="@+id/btn1Start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="musicStart"
+            android:text="開始/暫停"
+            tools:ignore="ButtonStyle,HardcodedText,UsingOnClickInXml" />
+
+        <Button
+            android:id="@+id/btn1Stop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="musicStop"
+            android:text="結束"
+            tools:ignore="ButtonStyle,HardcodedText,UsingOnClickInXml" />
+    </LinearLayout>
+
+    <VideoView
+        android:id="@+id/videoView"
+        android:layout_width="wrap_content"
+        android:layout_height="240dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linear1" />
+    <Button
+        android:id="@+id/btn2videoControl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="140dp"
+        android:text="視訊播放/暫停"
+        android:onClick="videoControl"
+        app:layout_constraintStart_toStartOf="@+id/videoView"
+        app:layout_constraintTop_toBottomOf="@+id/videoView"
+        tools:ignore="HardcodedText,MissingConstraints,UsingOnClickInXml"
+        tools:layout_editor_absoluteY="419dp" />
+
+    <LinearLayout
+        android:id="@+id/linear2"
+        android:layout_width="235dp"
+        android:layout_height="78dp"
+        android:orientation="horizontal"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.602"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn2videoControl"
+        tools:ignore="HardcodedText,MissingConstraints,UsingOnClickInXml">
+        <Button
+            android:id="@+id/StartRecording"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="開始錄音"
+            android:onClick="recordingStart"
+            tools:ignore="ButtonStyle,HardcodedText,MissingConstraints,UsingOnClickInXml" />
+        <Button
+            android:id="@+id/StopRecording"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="停止錄音"
+            android:onClick="recordingStop"
+            tools:ignore="ButtonStyle,HardcodedText,UsingOnClickInXml" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/drawing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:onClick="drawing"
+        android:text="2D繪圖"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.535"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linear2"
+        tools:ignore="ButtonStyle,HardcodedText,UsingOnClickInXml" />
+</androidx.constraintlayout.widget.ConstraintLayout>

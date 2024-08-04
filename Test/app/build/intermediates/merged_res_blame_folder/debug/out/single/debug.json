@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable_dialog_bg.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_income_text.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\income_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_shopping_edit_data.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\shopping_edit_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_memo.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\fragment_memo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_qq.png.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\qq.png"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_income.png.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\ic_income.png"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_alertdialog_changepassword.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\alertdialog_changepassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_normal.png.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_note_text.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\note_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_wallet_list.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\wallet_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_expense_text.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\expense_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_shape_circle.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\shape_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_wallet.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\fragment_wallet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_alertdialog_modifyinfo.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\alertdialog_modifyinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_baseline_remove_24.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\ic_baseline_remove_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_shape_rectangle.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\shape_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_baseline_shopping_cart_24.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\ic_baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_date_picker.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\fragment_date_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_nomoney.png.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\nomoney.png"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_bookmark.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\ic_baseline_bookmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_shape_bar.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\shape_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_account.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\ic_baseline_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_bottommenu.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\navigation\\nav_bottommenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_shopping_text.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\shopping_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_inputbar.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\inputbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_done.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\ic_baseline_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon.png.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_appicon.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\appicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_access_time_filled.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\ic_baseline_access_time_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_note_add.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\ic_baseline_note_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_money.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\ic_baseline_money.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable_roundcorner_add.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\roundcorner_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_shopping.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\fragment_shopping.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_add.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\ic_baseline_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_top_circle.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\top_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_notes_24.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\ic_baseline_notes_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_note.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\fragment_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\menu_note_menu_done.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\menu\\note_menu_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_alertdialog_sign_up.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\alertdialog_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_wallet_edit_data.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\wallet_edit_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_shopping_child_item.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\shopping_child_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_note_list_item.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\note_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_wallet.png.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_function.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\activity_function.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_rich.png.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\rich.png"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_poor.png.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\poor.png"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_note_edit_data.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\note_edit_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_usemoney.png.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\usemoney.png"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_circle_design.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\circle_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\menu_shopping_menu_done.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\menu\\shopping_menu_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_time_picker.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\fragment_time_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_bottomnav.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\menu\\menu_bottomnav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_baseline_delete_outline_24.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\ic_baseline_delete_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_bell.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\ic_baseline_bell.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_calendar.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable\\ic_baseline_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_expenses.png.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\ic_expenses.png"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_account.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_img_1.png.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\drawable-v24\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\merged_res\\debug\\layout_shopping_parent_item.xml.flat",
+        "source": "C:\\Users\\Chavon\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\layout\\shopping_parent_item.xml"
+    }
+]
